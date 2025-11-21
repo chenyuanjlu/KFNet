@@ -1,4 +1,4 @@
-# MPKNet: Multi-Plane Knee Ligament Injury Classification Network
+# KFNet: KneeFusionNetwork
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red.svg)](https://pytorch.org/)
@@ -8,7 +8,7 @@ A deep learning framework for automated knee ligament injury classification from
 
 ## 📋 Overview
 
-MPKNet is designed to classify four types of knee ligament injuries from MRI scans:
+KFNet is designed to classify four types of knee ligament injuries from MRI scans:
 - **ACL** (Anterior Cruciate Ligament)
 - **PCL** (Posterior Cruciate Ligament)
 - **MCL** (Medial Collateral Ligament)
@@ -33,8 +33,8 @@ MPKNet is designed to classify four types of knee ligament injuries from MRI sca
 
 ```bash
 # Clone the repository
-git clone https://github.com/chenyuanjlu/MPKNet.git
-cd MPKNet
+git clone https://github.com/chenyuanjlu/KFNet.git
+cd KFNet
 
 # Install dependencies
 pip install -r requirements.txt
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ## 📁 Project Structure
 
 ```
-MPKNet/
+KFNet/
 ├── config.py                 # Training configuration
 ├── run_training.py           # Training entry point
 ├── trainer.py                # Training pipeline
