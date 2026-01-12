@@ -1,4 +1,4 @@
-KFNet: KneeFusionNetwork
+# KFNet: KneeFusionNetwork
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red.svg)](https://pytorch.org/)
@@ -8,9 +8,7 @@ A deep learning framework for automated knee ligament injury classification from
 
 ## 📋 Overview
 
-![摘要图](https://github.com/user-attachments/assets/546ac0b6-16d1-4e9d-a3ca-52080edfc60b)
-
-
+![摘要图](https://github.com/user-attachments/assets/5460f7b5-823d-45f5-b86d-9c4d88998abb)
 
 KFNet is designed to classify four types of knee ligament injuries from MRI scans:
 - **ACL** (Anterior Cruciate Ligament)
