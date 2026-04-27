@@ -8,6 +8,8 @@ A deep learning framework for automated knee ligament injury classification from
 
 ## 📋 Overview
 <img width="797" height="546" alt="摘要图" src="https://github.com/user-attachments/assets/5552da08-e0c7-4081-b019-4af3546a0003" />
+<img width="2352" height="1716" alt="摘要图" src="https://github.com/user-attachments/assets/c3ebf60a-6d45-480d-803e-8ea978fccad2" />
+
 
 KFNet is designed to classify four types of knee ligament injuries from MRI scans:
 - **ACL** (Anterior Cruciate Ligament)
